@@ -1,0 +1,30 @@
+﻿**نکته مهم** خاهشا فیلم را مشاهده کنید . طبق اون پیش برید
+
+سلام
+
+ 
+آموزش ساخت ربات توسط 
+@alireza_pt
+در کانال آموزشي ساخت ربات ضد اسپم تلگرام به آيدي
+@create_antispam_bot
+
+
+کد ها رو در زير ميزارم طبق فيلم آموزشي عمل کنيد
+
+sudo apt-get update
+
+sudo apt-get upgrade
+
+sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev make unzip git redis-server g++ libjansson-dev libpython-dev expat libexpat1-dev tmux subversion
+
+cd $HOME
+
+git clone https://github.com/SEEDTEAM/TeleSeed.git -b supergroups
+
+cd TeleSeed
+بعد از این مرحله فایل launch.sh جدید را جایگزین کنید
+
+./launch.sh install
+ وبعد از اين مرحله شماره تلفن از شما ميخواهد
+موفق باشيد
+مدیریت کانال
